@@ -1,0 +1,5 @@
+states = ("Telangana","Andhra Pradadesh","Tamil Nadu","Kerala","Karnataka")
+print(states)
+print(type(states))
+random = ("teja",2,50.0)
+print(random)
