@@ -2,7 +2,7 @@ Step 1 :  python3 -m venv project_env
 
 Step 2 :  source project_env/bin/activate
 
-Step 3 : pip3 install requests
+Step 3 : pip3 install requests / pip3 install -r requirements.txt  
 
 Step 4 : pip freeze > requirements.txt  
 
